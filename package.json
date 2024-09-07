@@ -2,7 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sbjunaid.github.io/your-repo-name",
+  "homepage": "https://sbjunaid.github.io/React-App-Todo-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
